@@ -14,8 +14,8 @@ Enjoy the queries
 such queries in this portfolio:
 
 Drop column
-alter table
-parsename and replace to split string
-substring to split string 
-windows function like row_number over partition to delete the duplicated item.
-using CTE as the windows function
+1-alter table
+2-parsename and replace to split string
+3-substring to split string 
+4-windows function like row_number over partition to delete the duplicated item.
+5-using CTE as the windows function
